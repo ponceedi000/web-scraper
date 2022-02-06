@@ -3,7 +3,7 @@
 **Author**: Ediberto Ponce
 **Version**: 1.0.0
 
-- PR: []()
+- [PR Link](https://github.com/ponceedi000/web-scraper/pull/1)
 
 ## Overview
 
